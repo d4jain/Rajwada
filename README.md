@@ -80,3 +80,6 @@ index.html                 — Font imports (Playfair Display, Cormorant Garamon
 - Update contact details, address and map embed in `Location.jsx` and `Footer.jsx`.
 - Reservation and enquiry forms currently simulate submission client-side — connect to your
   reservation system / CRM / email service as needed.
+
+# Rajwada
+Resturant Dummy Website
